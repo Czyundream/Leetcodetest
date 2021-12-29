@@ -30,10 +30,3 @@ class Solution:
 nums = [11,15,2,7]
 target = 9
 print(Solution.twoSum(nums,target))
-"test!test!test!"
-
-def fact(x):
-    if x == 1:
-        return 1
-    else:
-        return x * fact(x-1)
